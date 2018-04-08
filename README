@@ -1,0 +1,5 @@
+任务队列。
+包括一个无边界的队列，BlockingQueue.通过封装queue实现
+一个有边界的队列，通过封装boost中的circular_buff(循环缓冲区)实现
+
+----边看mudo源码边学习
